@@ -1,2 +1,1 @@
-# calculator2
-commit and push with visual studio 2019
+# "calculator2" project (commit and push with visual studio 2019)
